@@ -1,0 +1,12 @@
+{
+	"Version": "1.0.0",
+	"idle_time_to_archive_days": 7,
+	"Labels": {
+		"RespondTo": "Read Over Coffee",
+		"Archive": "Read Over Coffee/Reviewed after Coffee"
+	},
+	"Secrets": {
+		"project_token_path": "../gmail-labeler-secrets/gmail_labeler_client_secret.json",
+		"user_token_path": "../gmail-labeler-secrets/gmail_labeler_client_token.json"
+	}
+}
